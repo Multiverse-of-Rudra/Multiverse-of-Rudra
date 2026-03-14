@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Rudra
 
-### 🚀 [Your Role / Title]
-*Example: Full Stack Developer | React • Node.js • Cloud*
+### 🚀 full stack devloper
+Full Stack Developer | React • Node.js • Cloud
 
 ---
 
