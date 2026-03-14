@@ -1,113 +1,119 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+# 👋 Hi, I'm [Your Name]
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Rudra Mohan Mishra</strong>
-</h1>
-
-<h3>AI Engineer | AI • Python • Java</h3>
-
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-  <p>
-   I’m Rudra — a resilient problem-solver blending academic rigor with technical mastery. Skilling up in AI/ML, debugging, and premium report writing, I thrive on structured routines and clarity. Focused, hopeful, and growth-driven, I aim to excel in computer science while building scalable, industry-ready projects.
-
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:mrudra052@gmail.com"><img src="https://img.shields.io/badge/📧_mrudra052@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
-  </p>
-
-<h3>🌐 Socials</h3>
-  
-<p align="left">
-  <a href="https://dev.to/rudra-mohan-mishra">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://discord.com/users/rudramohanmishra_96801">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Multiverse-of-Rudra">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://www.instagram.com/rudramohan_02?igsh=cXphaG53bjR4MXdo">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/rudra-mohan-mishra02">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-
-  
-</p>
-
-
-  <img src="https://komarev.com/ghpvc/?username=Multiverse-of-Rudra&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
-
-<br clear="all" />
-
-
-## 🛠️ Skills
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-
- <img src="https://skillicons.dev/icons?i=html,css,js,python,c" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind" />
-</td>
-
-
-
-</tr>
-<tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
-</td>
-</tr>
-</table>
-</p>
-
-
-
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Multiverse-of-Rudra&theme=microsoft"  />
-</div>
+### 🚀 [Your Role / Title]
+*Example: Full Stack Developer | React • Node.js • Cloud*
 
 ---
 
-## ❤️ Support Me
+## 💡 About Me
 
-<p align="center">
-  <a href="https://buymeachai.ezee.li/rudra_mohan_mishra" target="_blank" rel="noopener noreferrer"><img src="https://buymeachai.ezee.li/assets/images/buymeachai-button.png" alt="Buy Me A Chai" width="200"></a>
-</p>
+I'm a **[your role]** passionate about building **scalable, user-friendly applications**.
 
+- 🔭 Currently working on: **[project or technology]**
+- 🌱 Learning: **[skills you're learning]**
+- 💡 Interested in: **[AI, Web Development, DevOps, etc.]**
+- 🎯 Goal: **[career goal]**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+
+---
+
+## 🚀 Featured Projects
+
+### 1️⃣ Project Name
+Short description of what the project does.
+
+**Tech Stack:** React, Node.js, MongoDB
+
+🔗 GitHub: https://github.com/username/project  
+🌐 Live Demo: https://project-demo.com
+
+---
+
+### 2️⃣ Project Name
+Brief explanation of the problem solved.
+
+**Tech Stack:** Python, Flask, PostgreSQL
+
+🔗 GitHub: https://github.com/username/project
+
+---
+
+### 3️⃣ Project Name
+One-line explanation.
+
+**Tech Stack:** Next.js, Firebase
+
+🔗 GitHub: https://github.com/username/project
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight)
+
+---
+
+## 💼 Experience / Highlights
+
+- Built **[type of application]** used by **X users**
+- Developed **full-stack projects using React + Node**
+- Optimized performance improving load time by **X%**
+- Experience with **REST APIs and database design**
+
+---
+
+## 📚 Currently Learning
+
+- Advanced **System Design**
+- **Cloud Architecture**
+- **Machine Learning**
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/username)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](https://yourportfolio.com)
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+
+---
+
+## ⭐ Fun Fact
+
+I love **building cool projects, solving complex problems, and learning new technologies.**
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
